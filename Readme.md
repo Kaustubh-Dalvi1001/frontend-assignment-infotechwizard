@@ -6,7 +6,7 @@ The task was to convert a given **Figma design** into a **pixel-perfect, respons
 ---
 
 ## 🚀 Live Demo
-🔗 [View Live on GitHub Pages](https://your-username.github.io/frontend-assignment-infotechwizard/)
+🔗 [View Live on GitHub Pages]( https://kaustubh-dalvi1001.github.io/frontend-assignment-infotechwizard/)
 
 ---
 
